@@ -3,7 +3,7 @@ target/
 tmp/
 ssh/
 logs/
-ssh*
+ssh_*
 !.mvn/wrapper/maven-wrapper.jar
 /src/main/resources/ssh_*
 /src/test/resources/ssh_*
